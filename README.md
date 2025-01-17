@@ -335,7 +335,6 @@ After running the script, we inputed invalid numbers for choice of table.
 #### AWS IAM Management Section
 
 OUTPUT FROM RUNNING THE SCRIPT.
-
 ![](./img/l12.png)
 ![](./img/l13.png)
 
