@@ -32,7 +32,6 @@ Extend your shell scripting capabilities by creating more functions that extends
 
 -Iterate through the array of IAM user names and assign each user to the "admin"group using AWS CLI commands.
 
-
 SCRIPT!!
 
 
