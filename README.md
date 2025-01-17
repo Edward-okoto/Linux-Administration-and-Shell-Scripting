@@ -32,8 +32,7 @@ Extend your shell scripting capabilities by creating more functions that extends
 
 -Iterate through the array of IAM user names and assign each user to the "admin"group using AWS CLI commands.
 
-Sure thing! Here’s a streamlined version of your script that retains the functionality of both generating multiplication tables and managing AWS IAM users and groups.
-
+SCRIPT!!
 
 
 ```bash
